@@ -52,6 +52,6 @@ Password: admin<br/>
 <br/>
 Accessing user accounts<br/>
 <br/>
-Username: pambakev1@gmail.com<br/>
+Email: pambakev1@gmail.com<br/>
 Password: pamba123456789<br/>
 <br/>
