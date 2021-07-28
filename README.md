@@ -1,4 +1,4 @@
-<h2>Employee-leave-management-system</h2>
+<h2>Employee leave management system</h2>
 
 <br/>
 <p>
