@@ -31,7 +31,7 @@ CREATE TABLE IF NOT EXISTS `admin` (
 --
 
 INSERT INTO `admin` (`id`, `UserName`, `Password`, `updationDate`) VALUES
-(1, 'admin', '5c428d8875d2948607f3e3fe134d71b4', '2017-10-30 11:42:58');
+(1, 'admin', '21232f297a57a5a743894a0e4a801fc3', '2017-10-30 11:42:58');
 
 -- --------------------------------------------------------
 
