@@ -85,8 +85,8 @@ CREATE TABLE IF NOT EXISTS `tblemployees` (
 --
 
 INSERT INTO `tblemployees` (`id`, `EmpId`, `FirstName`, `LastName`, `EmailId`, `Password`, `Gender`, `Dob`, `Department`, `Address`, `City`, `Country`, `Phonenumber`, `Status`, `RegDate`) VALUES
-(1, 'EMP10806121', 'Johnny', 'doe', 'johnny@gmail.com', 'f925916e2754e5e03f75dd58a5733251', 'Male', '3 February, 1990', 'Human Resource', 'N NEPO', 'NEPO', 'IRE', '9857555555', 1, '2017-11-10 11:29:59'),
-(2, 'DEMP2132', 'James', 'doe', 'james@gmail.com', 'f925916e2754e5e03f75dd58a5733251', 'Male', '3 February, 1990', 'Information Technology', 'N NEPO', 'NEPO', 'IRE', '8587944255', 1, '2017-11-10 13:40:02');
+(1, 'EMP10806121', 'Pamba', 'Shatson', 'pambakev1@gmail.com', '36992638237be7bad5ae3819b532fdb5', 'Male', '8 March, 1995', 'Human Resource', 'Bweyogere, Kirinya - Kito', 'KAMPALA', 'UGA', '25675845621', 1, '2011-11-16 14:29:59'),
+(2, 'DEMP2132', 'Merali', 'Farzana', 'merali@gmail.com', 'f925916e2754e5e03f75dd58a5733251', 'Female', '3 February, 1996', 'Information Technology', 'Washington DC', 'Washington DC', 'USA', '8587944255', 2, '2017-11-10 16:40:02');
 
 -- --------------------------------------------------------
 
