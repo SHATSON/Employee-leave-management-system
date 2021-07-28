@@ -15,6 +15,10 @@ first so he can log in into the system and can apply for a leave.
 
 <br/>
 <br/>
+<strong>Features</strong>
+
+<br/>
+<br/>
 <strong>Admin</strong>
 <br/>
 <br/>
@@ -48,6 +52,6 @@ Password: admin<br/>
 <br/>
 Open the browser and go to http://localhost/elms/<br/>
 <br/>
-Username: pambakev1@gmail.com
-Password: pamba123456789
+Username: pambakev1@gmail.com<br/>
+Password: pamba123456789<br/>
 <br/>
