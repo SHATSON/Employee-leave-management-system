@@ -43,7 +43,7 @@ Change Password<br/>
 Apply Leave<br/>
 Leave History<br/>
 <br/>
-Use XAMPP control panel and start MySQL and Apache<br/>
+Run with XAMPP or WAMP<br/>
 <br/>
 Accessing admin accounts<br/>
 <br/>
