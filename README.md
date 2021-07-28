@@ -50,7 +50,7 @@ Accessing admin accounts<br/>
 Username: admin<br/>
 Password: admin<br/>
 <br/>
-Open the browser and go to http://localhost/elms/<br/>
+Accessing user accounts<br/>
 <br/>
 Username: pambakev1@gmail.com<br/>
 Password: pamba123456789<br/>
