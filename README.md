@@ -3,7 +3,7 @@
 <br/>
 <p>
 The Employee Leave Management System contains two sections the admin and the user. 
-The admin plays an important role in this Employee Leave Management System in PHP. 
+The admin plays an important role in this Employee Leave Management System. 
 He is the one responsible on all of the management of the system. 
 If you log in into the Employee Leave Management System as an admin you will see there the Dashboard, Department, 
 Leave Type, Employees and Leave Management. On the Dashboard, the admin can view all the latest applications and their
